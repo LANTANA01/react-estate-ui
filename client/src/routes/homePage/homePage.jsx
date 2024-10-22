@@ -11,7 +11,7 @@ function HomePage() {
     <div className="homePage">
       <div className="textContainer">
         <div className="wrapper">
-          <h1 className="title">Find Real Estate & Get Your Dream Place</h1>
+          <h1 className="title">Discover Your Perfect Home & Secure Your Dream Property</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
             explicabo suscipit cum eius, iure est nulla animi consequatur
@@ -36,7 +36,7 @@ function HomePage() {
         </div>
       </div>
       <div className="imgContainer">
-        <img src="/bg.png" alt="" />
+        <img src="/bg111.png" alt="" />
       </div>
     </div>
   );
