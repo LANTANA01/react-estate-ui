@@ -12,18 +12,12 @@ function HomePage() {
       <div className="textContainer">
         <div className="wrapper">
           <h1 className="title">Discover Your Perfect Home & Secure Your Dream Property</h1>
-<<<<<<< HEAD
+
           <p> RealEstate By Lan revolutionizes property hunting with its real-time updates, responsive design,
               and interactive features. Our app streamlines the search process, offers unparalleled user experience,
               and helps you make informed decisions with ease. 
               Discover your dream property faster and more efficiently than ever before.
-=======
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
-            explicabo suscipit cum eius, iure est nulla animi consequatur
-            facilis id pariatur fugit quos laudantium temporibus dolor ea
-            repellat provident impedit!
->>>>>>> d2e4704e41a74ddf9b9939be9045199e48b4bc09
+
           </p>
           <SearchBar />
           <div className="boxes">
