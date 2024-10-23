@@ -1,3 +1,4 @@
+// Configuration file for setting up ESLint rules and plugins to ensure code quality and consistency.
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },
