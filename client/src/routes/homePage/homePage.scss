@@ -28,10 +28,11 @@
       }
 
       .title {
-        font-size: 64px;
+        font-size: 54px;
+        text-align: center;
 
         @include lg {
-          font-size: 48px;
+          font-size: 34px;
         }
       }
 
@@ -44,10 +45,10 @@
         }
 
         h1 {
-          font-size: 36px;
+          font-size: 360x;
 
           @include lg {
-            font-size: 32px;
+            font-size: 22px;
           }
         }
 
